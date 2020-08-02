@@ -1,3 +1,0 @@
-Header header
-float32 left_coil
-float32 right_coil
